@@ -45,7 +45,7 @@ http://ivi.bupt.edu.cn/hls/tjhd.m3u8
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 ,重庆卫视高清
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 ,河南卫视
+#EXTINF:-1 ,河南卫视高清
 http://ivi.bupt.edu.cn/hls/hnhd.m3u8
 #EXTINF:-1 ,北京卫视高清
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
@@ -59,11 +59,7 @@ http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 #EXTINF:-1 ,东方卫视高清
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 ,黑龙江卫视1080P
-http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,五星体育高清
-http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/1300000/mnf.m3u8
 #EXTINF:-1 ,水长城监控
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 ,体育直播-1080P
+#EXTINF:-1 ,CCTV-13高清
 http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
