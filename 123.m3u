@@ -1,35 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" tvg-name="CCTV1" ,CCTV-1
 http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" tvg-name="CCTV1" ,CCTV-2
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" tvg-name="CCTV2" ,CCTV-2
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg" tvg-name="CCTV1" ,CCTV-3
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg" tvg-name="CCTV3" ,CCTV-3
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" tvg-name="CCTV1" ,CCTV-4
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" tvg-name="CCTV4" ,CCTV-4
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 ,CCTV-5+体育
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" tvg-name="CCTV5" ,CCTV-5
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 ,CCTV-6高清
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" tvg-name="CCTV6" ,CCTV-6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 ,CCTV-7军事农业
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv7.jpg" tvg-name="CCTV7" ,CCTV-7
 http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 ,CCTV-8高清
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" tvg-name="CCTV8" ,CCTV-8
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 ,CCTV-9纪录
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv9.jpg" tvg-name="CCTV9" ,CCTV-9
 http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 ,CCTV-10科教
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg" tvg-name="CCTV10" ,CCTV-10
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 ,CCTV-11戏曲
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv11.jpg" tvg-name="CCTV11" ,CCTV-11
 http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
-#EXTINF:-1 ,CCTV-12社会与法
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" tvg-name="CCTV12" ,CCTV-12
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 ,CCTV-13新闻
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" tvg-name="CCTV13" ,CCTV-13
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 ,CCTV-13新闻高清
-http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
-#EXTINF:-1 ,CCTV-14少儿
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg" tvg-name="CCTV14" ,CCTV-14
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 ,CCTV-15音乐
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" tvg-name="CCTV15" ,CCTV-15
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1 ,北京卫视1080P
 http://keonline.shanghai.liveplay.qq.com/live/program/live/bjwshd/4000000/mnf.m3u8
@@ -55,3 +53,5 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/1300000/mnf.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,体育直播-1080P
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" tvg-name="CCTV13" ,CCTV-13
+http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
