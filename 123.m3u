@@ -25,6 +25,8 @@ http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 ,CCTV-13新闻
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 ,CCTV-13新闻高清
+http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 #EXTINF:-1 ,CCTV-14少儿
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 ,CCTV-15音乐
