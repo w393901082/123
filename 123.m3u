@@ -1,65 +1,75 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" tvg-name="CCTV-1"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv1.jpg" tvg-name="CCTV-1"
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" tvg-name="CCTV-2"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv2.jpg" tvg-name="CCTV-2"
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg" tvg-name="CCTV-3"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv3.jpg" tvg-name="CCTV-3"
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" tvg-name="CCTV-4"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv4.jpg" tvg-name="CCTV-4"
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" tvg-name="CCTV-5"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv5.jpg" tvg-name="CCTV-5"
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" tvg-name="CCTV-6"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv6.jpg" tvg-name="CCTV-6"
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv7.jpg" tvg-name="CCTV-7"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv7.jpg" tvg-name="CCTV-7"
 http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" tvg-name="CCTV-8"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv8.jpg" tvg-name="CCTV-8"
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv9.jpg" tvg-name="CCTV-9"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv9.jpg" tvg-name="CCTV-9"
 http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg" tvg-name="CCTV-10"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv10.jpg" tvg-name="CCTV-10"
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv11.jpg" tvg-name="CCTV-11"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv11.jpg" tvg-name="CCTV-11"
 http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" tvg-name="CCTV-12"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv12.jpg" tvg-name="CCTV-12"
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" tvg-name="CCTV-13"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv13.jpg" tvg-name="CCTV-13"
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg" tvg-name="CCTV-14"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv14.jpg" tvg-name="CCTV-14"
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" tvg-name="CCTV-15"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv15.jpg" tvg-name="CCTV-15"
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" tvg-name="湖南卫视高清"
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/hunws.jpg" tvg-name="湖南卫视"
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 ,浙江卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/zjws.jpg" tvg-name="浙江卫视"
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 ,安徽卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/ahws.jpg" tvg-name="安徽卫视"
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 ,黑龙江卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/hljws.jpg" tvg-name="黑龙江卫视"
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 ,辽宁卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/lnws.jpg" tvg-name="辽宁卫视"
 http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 ,天津卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/jlws.jpg" tvg-name="吉林卫视"
+http://ivi.bupt.edu.cn/hls/jlhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/tjws.jpg" tvg-name="天津卫视"
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1 ,山东卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/sdws.jpg" tvg-name="山东卫视"
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 ,重庆卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cqws.jpg" tvg-name="重庆卫视"
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 ,河南卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/henws.jpg" tvg-name="河南卫视"
 http://ivi.bupt.edu.cn/hls/hnhd.m3u8
-#EXTINF:-1 ,北京卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/hebws.jpg" tvg-name="河北卫视"
+http://ivi.bupt.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/bjws.jpg" tvg-name="北京卫视"
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 ,江苏卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/jsws.jpg" tvg-name="江苏卫视"
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 ,深圳卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/szws.jpg" tvg-name="深圳卫视"
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 ,湖北卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/hubws.jpg" tvg-name="湖北卫视"
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 ,广东卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/gdws.jpg" tvg-name="广东卫视"
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 ,东方卫视高清
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/gxws.jpg" tvg-name="广西卫视"
+http://ivi.bupt.edu.cn/hls/gxhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/jxws.jpg" tvg-name="江西卫视"
+http://ivi.bupt.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/dnws.jpg" tvg-name="东南卫视"
+http://ivi.bupt.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/scws.jpg" tvg-name="四川卫视"
+http://ivi.bupt.edu.cn/hls/schd.m3u8
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/dfws.jpg" tvg-name="东方卫视"
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 ,水长城监控
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/nmgws.jpg" tvg-name="水长城"
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 ,CCTV-13高清
-http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
