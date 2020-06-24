@@ -73,3 +73,5 @@ http://ivi.bupt.edu.cn/hls/schd.m3u8
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 tvg-logo="http://www.cietv.com/img/nmgws.jpg" tvg-name="水长城"
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/cctv13.jpg" tvg-name="CCTV-13高清"
+http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
