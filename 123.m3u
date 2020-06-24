@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" tvg-name="CCTV-1"
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 ,CCTV-2
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" tvg-name="CCTV-2"
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1 ,CCTV-3
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg" tvg-name="CCTV-3"
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 ,CCTV-4
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" tvg-name="CCTV-4"
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 ,CCTV-5
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" tvg-name="CCTV-5"
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 ,CCTV-6
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" tvg-name="CCTV-6"
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 ,CCTV-7
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv7.jpg" tvg-name="CCTV-7"
 http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 ,CCTV-8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" tvg-name="CCTV-8"
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 ,CCTV-9
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv9.jpg" tvg-name="CCTV-9"
 http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 ,CCTV-10
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg" tvg-name="CCTV-10"
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 ,CCTV-11
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv11.jpg" tvg-name="CCTV-11"
 http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
-#EXTINF:-1 ,CCTV-12
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" tvg-name="CCTV-12"
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 ,CCTV-13
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" tvg-name="CCTV-13"
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 ,CCTV-14
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg" tvg-name="CCTV-14"
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 ,CCTV-15
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" tvg-name="CCTV-15"
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1 ,湖南卫视高清
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" tvg-name="湖南卫视高清"
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 ,浙江卫视高清
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
