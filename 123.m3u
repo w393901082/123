@@ -63,5 +63,3 @@ http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,CCTV-13高清
 http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
-#EXTINF:-1 ,测试
-rtsp://admin:admin@192.168.123.131:554/cam/realmonitor?channel=1&subtype=0
