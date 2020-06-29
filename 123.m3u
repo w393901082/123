@@ -75,3 +75,5 @@ http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 http://106.54.30.243/gz009/gz.php?id=chcgqdy
 #EXTINF:-1 tvg-logo="http://www.cietv.com/img/sbscnbc.jpg" tvg-name="新三国"
 http://sousou2.top/dl/yy1.php?t=1382646395
+#EXTINF:-1 tvg-logo="http://www.cietv.com/img/nmgws.jpg" tvg-name="教育频道"
+https://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
